@@ -1,2 +1,2 @@
 # nacional_guayaramerin
-es una pagina para registro de personal de la unidad educativa
+es una pagina para registro de personal
